@@ -1,0 +1,11 @@
+firstname,lastname,email,mobile,branch,education_level,yos,college_name,city,cohort,state,gender,learning_track
+Sarah,Wilson,sarah.wilson@outlook.com,5974894795,IT,PhD,2022,PQR Polytechnic,Bangalore,cohort 4,Maharashtra,Female,Administrator
+David,Lee,david.lee@thesmartbridge.com,2794720668,Mechanical,MBA,2026,ABC College of Engineering,Bangalore,cohort 1,Tamil Nadu,Male,Data Scientist
+Emily,Johnson,emily.johnson@thesmartbridge.com,6723001994,Civil,B-Tech,2024,PQR Polytechnic,Hyderabad,cohort 4,Karnataka,Male,Developer
+John,Smith,john.smith@outlook.com,4519071715,Civil,M-Tech,2022,PQR Polytechnic,Bangalore,cohort 2,Andhra Pradesh,Male,Developer
+John,Lee,john.lee@thesmartbridge.com,310576758,Civil,M-Tech,2022,LMN University,Mumbai,cohort 3,Karnataka,Male,Designer
+Sarah,Brown,sarah.brown@gmail.com,6664862129,ECE,PhD,2022,PQR Polytechnic,Visakhapatnam,cohort 2,Maharashtra,Female,Developer
+Michael,Lee,michael.lee@gmail.com,5662596494,IT,Diploma,2024,LMN University,Mumbai,cohort 1,Telangana,Male,Administrator
+Jane,Johnson,jane.johnson@hotmail.com,9128128847,Mechanical,MBA,2022,PQR Polytechnic,Hyderabad,cohort 2,Karnataka,Female,Administrator
+Michael,Brown,michael.brown@yahoo.com,256483321,Civil,M-Tech,2024,ABC College of Engineering,Hyderabad,cohort 4,Karnataka,Female,Developer
+Michael,Davis,michael.davis@outlook.com,2024171955,Civil,B-Tech,2026,LMN University,Hyderabad,cohort 2,Telangana,Female,Data Scientist
